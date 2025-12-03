@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+.l-1-card-1-gradient {
+  background: linear-gradient(
+    150deg,
+    rgba(20, 20, 219, 0.468) 20%,
+    rgba(219, 11, 222, 0.559) 70%
+  );
+  /* backdrop-filter: blur(5px); */
+}
+
+.l-1-card-2-gradient {
+  background: linear-gradient(
+    150deg,
+    rgba(229, 41, 232, 0.468) 30%,
+    rgba(170, 127, 171, 0.559) 70%
+  );
+  /* backdrop-filter: blur(5px); */
+}
+.l-2-card-1-gradient {
+  background: linear-gradient(
+    150deg,
+    rgba(219, 20, 219, 0.468) 20%,
+    rgba(219, 11, 222, 0.559) 70%
+  );
+  backdrop-filter: blur(5px);
+}
+.l-2-card-2-gradient {
+  background: linear-gradient(
+    150deg,
+    rgba(179, 22, 179, 0.605) 20%,
+    rgba(186, 37, 189, 0.675) 70%
+  );
+  backdrop-filter: blur(5px);
+}
+/* .xoxo{
+  ani
+} */

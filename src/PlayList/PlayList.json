@@ -1,0 +1,49 @@
+{
+  "subjects": [
+    {
+      "Subjectid": "HTML",
+      "title": "HTML Course",
+      "classes": [
+        {
+          "classid": "class1",
+          "title": "HTML Introduction Class 01",
+          "description": "Learn the fundamentals of HTML in this introductory class.",
+          "youtubeUrl": "https://www.youtube.com/embed/dKxbrmmoNmA"
+        },
+        {
+          "classid": "class2",
+          "title": "HTML Structure Class 02 ",
+          "description": "Explore the structure and layout components of HTML.",
+          "youtubeUrl": "https://www.youtube.com/embed/vV1iLWz7wcc"
+        },
+        {
+          "classid": "class3",
+          "title": "Basic Tags of HTML Class 03",
+          "description": "Understand the essential tags used in HTML for building web content.",
+          "youtubeUrl": "https://www.youtube.com/embed/RYq8D4CPCrI"
+        }
+      ]
+    },
+    {
+      "Subjectid": "CSS",
+      "title": "CSS Course",
+      "classes": [
+        {
+          "classid": "class1",
+          "title": "Class 01",
+          "youtubeUrl": "https://www.youtube.com/watch?v=DBsLXTENmuQ"
+        },
+        {
+          "classid": "class2",
+          "title": "Class 02",
+          "youtubeUrl": "https://www.youtube.com/watch?v=DUxqs7BbjLA"
+        },
+        {
+          "classid": "class3",
+          "title": "Class 03",
+          "youtubeUrl": "https://www.youtube.com/watch?v=cbTkjXhfZMw"
+        }
+      ]
+    }
+  ]
+}
