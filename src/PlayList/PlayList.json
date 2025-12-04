@@ -153,6 +153,34 @@
           "youtubeUrl": "https://www.youtube.com/embed/0ezV_kJ2Jgs"
         }
       ]
+    },
+    {
+      "Subjectid": "FireBase",
+      "title": "FireBase Course",
+      "cardDescription": "Harness the power of Firebase for developing web and mobile applications.",
+      "color": "linear-gradient(209.21deg, rgb(227, 56, 48) 13.57%, rgb(0, 24, 85) 98.38%)",
+      "imagePath": "../../public/firebaselogo.svg",
+
+      "classes": [
+        {
+          "classid": "FireBaseClass1",
+          "title": "Introducing Firebase Authentication",
+          "description": "Learn about the features and benefits of Firebase Authentication.",
+          "youtubeUrl": "https://www.youtube.com/embed/yJUEVTrUcyk"
+        },
+        {
+          "classid": "FireBaseClass1",
+          "title": "How to Store Files on Firebase Firestore",
+          "description": "Discover how to upload and store files using Firebase Firestore.",
+          "youtubeUrl": "https://www.youtube.com/embed/UMKc5-nAALA"
+        },
+        {
+          "classid": "FireBaseClass1",
+          "title": "Firebase Hosting with ReactJS and HTML",
+          "description": "Explore how to deploy a ReactJS and HTML application to Firebase Hosting.",
+          "youtubeUrl": "https://www.youtube.com/embed/mGc8FWSMY38"
+        }
+      ]
     }
   ]
 }
