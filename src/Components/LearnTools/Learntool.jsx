@@ -24,6 +24,7 @@ const Learntool = () => {
     <div className="flex items-center justify-center gap-20  p-15 ">
       <div
         data-aos="fade-right"
+        data-aos-offset="200"
         data-aos-once="false"
         data-aos-duration="700"
         data-aos-delay="10"
@@ -39,7 +40,10 @@ const Learntool = () => {
       </div>
       <div
         // data-aos="fade-left"
-        // data-aos-offset="100"
+        // data-aos-offset="200"
+        // data-aos-once="false"
+        // data-aos-duration="700"
+        // data-aos-delay="10"
         className="flex gap-3 mt-12"
       >
         <img src={htmllogo} className="h-12 w-12 object-cover " />

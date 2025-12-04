@@ -15,7 +15,7 @@ function App() {
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/courses" element={<YouTubeCourses />} />
-        <Route path="/courses/:Subjectid/:classid" element={<CoursesVideo />} />
+        <Route path="/courses/:Subjectid/:title" element={<CoursesVideo />} />
       </Routes>
     </div>
   );

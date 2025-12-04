@@ -3,45 +3,154 @@
     {
       "Subjectid": "HTML",
       "title": "HTML Course",
+      "cardDescription": "Learn the basics of HTML, the language used to create webpages.",
+      "color": " linear-gradient(209.21deg, rgb(255, 101, 30) 13.57%, rgb(0, 24, 85) 98.38%)",
+      "imagePath": "../../public/htmllogo.svg",
       "classes": [
         {
           "classid": "class1",
-          "title": "HTML Introduction Class 01",
+          "title": "HTML-Introduction",
           "description": "Learn the fundamentals of HTML in this introductory class.",
           "youtubeUrl": "https://www.youtube.com/embed/dKxbrmmoNmA"
         },
         {
           "classid": "class2",
-          "title": "HTML Structure Class 02 ",
+          "title": "HTML-Structure",
           "description": "Explore the structure and layout components of HTML.",
           "youtubeUrl": "https://www.youtube.com/embed/vV1iLWz7wcc"
         },
         {
           "classid": "class3",
-          "title": "Basic Tags of HTML Class 03",
+          "title": "Basic-Tags-of-HTML",
           "description": "Understand the essential tags used in HTML for building web content.",
           "youtubeUrl": "https://www.youtube.com/embed/RYq8D4CPCrI"
+        },
+        {
+          "classid": "class4",
+          "title": "html-forms-&-input-tags",
+          "description": "Discover how to create forms and input tags in HTML.",
+          "youtubeUrl": "https://www.youtube.com/embed/5YOCJisdX_0"
+        },
+        {
+          "classid": "class5",
+          "title": "html-tutorial-anchor-tag",
+          "description": "Master the usage of anchor tags for creating hyperlinks in HTML.",
+          "youtubeUrl": "https://www.youtube.com/embed/aBS21mogYsg"
+        },
+        {
+          "classid": "class7",
+          "title": "html-img-tag",
+          "description": "Learn how to insert and manipulate images using the img tag in HTML.",
+          "youtubeUrl": "https://www.youtube.com/embed/OZFpsy5NxR8"
+        },
+        {
+          "classid": "class9",
+          "title": "html-iframe-tag-attribute",
+          "description": "Explore the iframe tag and its attributes for embedding content in HTML.",
+          "youtubeUrl": "https://www.youtube.com/embed/qmO8L5Y_4aQ"
         }
       ]
     },
     {
       "Subjectid": "CSS",
       "title": "CSS Course",
+      "cardDescription": "Discover how to style and design webpages using CSS.",
+      "color": "linear-gradient(209.21deg, rgb(0, 207, 253) 13.57%, rgb(0, 24, 85) 98.38%)",
+      "imagePath": "../../public/csslogo.svg",
       "classes": [
         {
           "classid": "class1",
-          "title": "Class 01",
-          "youtubeUrl": "https://www.youtube.com/watch?v=DBsLXTENmuQ"
+          "title": "css-introduction",
+          "description": "Gain an understanding of what CSS (Cascading Style Sheets) is in this introductory class.",
+          "youtubeUrl": "https://www.youtube.com/embed/DBsLXTENmuQ"
         },
         {
           "classid": "class2",
-          "title": "Class 02",
-          "youtubeUrl": "https://www.youtube.com/watch?v=DUxqs7BbjLA"
+          "title": "css-text-property-tutorial",
+          "description": "Learn how to use the text property in CSS to style text content.",
+          "youtubeUrl": "https://www.youtube.com/embed/DUxqs7BbjLA"
         },
         {
           "classid": "class3",
-          "title": "Class 03",
+          "title": "css-div-tag-in-html",
+          "description": "Explore how to apply CSS properties to the div tag in HTML for enhanced styling.",
           "youtubeUrl": "https://www.youtube.com/watch?v=cbTkjXhfZMw"
+        },
+        {
+          "classid": "class4",
+          "title": "css-display-block-and-display-inline",
+          "description": "Understand the difference between the display block and display inline CSS properties.",
+          "youtubeUrl": "https://www.youtube.com/embed/L-C14n6J_kM"
+        },
+        {
+          "classid": "class5",
+          "title": "css-position-property-relative-&-absolute",
+          "description": "Master the position property in CSS and learn how to use relative and absolute positioning.",
+          "youtubeUrl": "https://www.youtube.com/embed/mlIEe2mB1Ew"
+        },
+        {
+          "classid": "class6",
+          "title": "css-overflow-property",
+          "description": "Discover how to control overflowing content using the CSS overflow property.",
+          "youtubeUrl": "https://www.youtube.com/embed/4EjJAY6ADJo"
+        },
+        {
+          "classid": "class7",
+          "title": "css-flexbox-tutorial",
+          "description": "Learn how to use CSS Flexbox to create flexible and responsive layouts.",
+          "youtubeUrl": "https://www.youtube.com/embed/nfEpcB-Cwgo"
+        },
+        {
+          "classid": "class8",
+          "title": "css-media-queries-explained",
+          "description": "Learn how to use CSS Flexbox to create flexible and responsive layouts.",
+          "youtubeUrl": "https://www.youtube.com/embed/Y1fPafLdM8s"
+        }
+      ]
+    },
+    {
+      "Subjectid": "React",
+      "title": "ReactJS Course",
+      "cardDescription": "Master React, a JavaScript library for building user interfaces.",
+      "color": "linear-gradient(209.21deg, rgb(255, 184, 79) 13.57%, rgb(0, 24, 85) 98.38%)",
+      "imagePath": "../../public/reactnative.svg",
+
+      "classes": [
+        {
+          "classid": "reactclass1",
+          "title": "React JS - React Tutorial (1) React Hooks useState",
+          "description": "Learn how to use the useState hook in React for managing state in functional components.",
+          "youtubeUrl": "https://www.youtube.com/embed/3Z-QTKjhksE"
+        },
+        {
+          "classid": "reactclass2",
+          "title": "React JS - React Tutorial (2) React Hooks useEffect",
+          "description": "Discover how to use the map method to iterate over arrays in React.",
+          "youtubeUrl": "https://www.youtube.com/embed/-bnbVLl2hM8"
+        },
+        {
+          "classid": "reactclass3",
+          "title": "ReactJS - React Tutorial (3) Array Map Method",
+          "description": "Learn about React components and various methods associated with them.",
+          "youtubeUrl": "https://www.youtube.com/embed/0ezV_kJ2Jgs"
+        },
+        {
+          "classid": "reactclass4",
+          "title": "React JS Component & methods | React Tutorial (4)",
+          "description": "Understand the difference between the display block and display inline CSS properties.",
+          "youtubeUrl": "https://www.youtube.com/embed/3Z-QTKjhksE"
+        },
+        {
+          "classid": "class5",
+          "title": "React JS Conditional Rendering | React Tutorial (5)",
+          "description": "Master conditional rendering techniques in React for rendering components based on conditions.",
+          "youtubeUrl": "https://www.youtube.com/embed/-bnbVLl2hM8"
+        },
+        {
+          "classid": "class6",
+          "title": "Benefit of React | Npm Packages | React Tutorial (6)",
+          "description": "Explore the benefits of React and npm packages in this React Tutorial",
+          "youtubeUrl": "https://www.youtube.com/embed/0ezV_kJ2Jgs"
         }
       ]
     }
